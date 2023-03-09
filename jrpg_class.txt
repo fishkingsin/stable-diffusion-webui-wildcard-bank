@@ -1,0 +1,20 @@
+Warrior
+Knight
+Mage
+Wizard
+Thief
+Rogue
+Priest
+Healer
+Archer
+Ranger
+Summoner
+Druid
+Monk
+Martial Artist
+Gunner
+Gunslinger
+Samurai
+Swordsmen
+Ninja
+Assassin

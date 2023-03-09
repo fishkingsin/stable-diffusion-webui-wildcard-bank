@@ -1,0 +1,5 @@
+miniskirt
+short skirt
+medium skirt
+long skirt
+very long skirt

@@ -1,0 +1,20 @@
+Warrior, Heavy armor such as plate mail, chain mail, and gauntlets, {includes a helmet and shield}
+Knight, Heavy armor such as plate mail, chain mail, and gauntlets, {includes a helmet and shield}
+Mage, Long robes, cloaks, {decorated with mystical symbols, designs}
+Wizard, Long robes, cloaks, {decorated with mystical symbols, designs}
+Thief, Tight-fitting leather armor, {with hoods, masks to conceal their identity}
+Rogue, Tight-fitting leather armor, {with hoods, masks to conceal their identity}
+Priest, Flowing robes, {in light colors such as white, blue, {a hood, ceremonial headdress}}
+Healer, Flowing robes, {in light colors such as white, blue, {a hood, ceremonial headdress}}
+Archer, Light armor made of leather, chainmail, {with a hood, cap to protect from the elements}
+Ranger, Light armor made of leather, chainmail, {with a hood, cap to protect from the elements}
+Summone, Flowing robes made of natural materials such as leaves, animal hides, {adorned with feathers, other natural decorationsr}
+Druid, Flowing robes made of natural materials such as leaves, animal hides, {adorned with feathers, other natural decorations}
+Monk, Loose-fitting robes, wraps, allowing for a full range of movement, {in neutral colors such as brown, gray}
+Martial Artist, Loose-fitting robes, wraps, allowing for a full range of movement, {in neutral colors such as brown, gray}
+Gunner, Clothing with a Western-inspired flair, such as cowboy hats, dusters, and bandanas
+Gunslinger, Clothing with a Western-inspired flair, such as cowboy hats, dusters, and bandanas
+Samurai, Traditional Japanese armor such as a cuirass, helmet, and greaves, {decorated with clan symbols, family crests}
+Swordsmen, Traditional Japanese armor such as a cuirass, helmet, and greaves, {decorated with clan symbols, family crests}
+Ninja, Tight-fitting clothing made of dark colors such as black, navy, {hood, mask to conceal their identity}
+Assassin, Tight-fitting clothing made of dark colors such as black, navy, {hood, mask to conceal their identity}

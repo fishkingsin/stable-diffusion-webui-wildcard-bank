@@ -1,0 +1,12 @@
+Dog
+Cat
+Horse
+Elephant
+Lion
+Tiger
+Gorilla
+Chimpanzee
+Bear
+Deer
+Moose
+Kangaroo
